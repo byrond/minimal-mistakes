@@ -12,6 +12,8 @@ header:
       url: "https://github.com/byrond"
     - label: "<i class='fas fa-linkedin'></i> LinkedIn"
       url: "https://www.linkedin.com/in/byron-duvall"
+    - label: "<i class='fas fa-drupal'></i> Drupal.org"
+      url: "https://www.drupal.org/u/byrond"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Web Developer"
 ---
