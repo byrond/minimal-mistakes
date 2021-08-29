@@ -10,6 +10,8 @@ header:
   actions:
     - label: "<i class='fas fa-github'></i> GitHub"
       url: "https://github.com/byrond"
+    - label: "<i class='fas fa-linkedin'></i> LinkedIn"
+      url: "https://www.linkedin.com/in/byron-duvall"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Web Developer"
 ---
