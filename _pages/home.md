@@ -8,11 +8,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "<i class='fas fa-github'></i> GitHub"
+    - label: "<i class='fab fa-github'></i> GitHub"
       url: "https://github.com/byrond"
-    - label: "<i class='fas fa-linkedin'></i> LinkedIn"
+    - label: "<i class='fab fa-linkedin'></i> LinkedIn"
       url: "https://www.linkedin.com/in/byron-duvall"
-    - label: "<i class='fas fa-drupal'></i> Drupal.org"
+    - label: "<i class='fab fa-drupal'></i> Drupal.org"
       url: "https://www.drupal.org/u/byrond"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Web Developer"
